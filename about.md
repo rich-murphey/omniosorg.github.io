@@ -7,14 +7,20 @@ permalink: /about/
 
 <img class="responsive-img" src="/OmniOSce_logo.svg" />
 
-On April 21st 2017, OmniTI announced that they would suspend active
-development of OmniOS and support contracts would not be renewed.
+On April 21st 2017, [Robert Treat announced](https://lists.omniti.com/pipermail/omnios-discuss/2017-April/008699.html) 
+that OmniTI would suspend active development of OmniOS and support
+contracts would not be renewed.  After five years of releases twice 
+a year, OmniOS had become highly popular, yet the goal of making
+OmniOS community operated had not been realized, and thus a more 
+"radical approach" was needed.
 
+While the announcement [stunned many](https://www.theregister.co.uk/2017/04/25/oracle_free_solaris_project_stops/), 
+OmniTI still believed that the community could be built, stating "To be clear, \
+our goal is not to abandon OmniOS, but to divest OmniTI
+from the open source project in order to spur others to participate
+more."
 
-While this announcement left many users stunned, others focused more on the
-fact that OmniTI in their announcement also expressed the hope that "the
-community" would take up further development of the OS.  14 weeks later,
-OmniOS Community Edition is a reality.
+14 weeks later, OmniOS Community Edition is a reality.
 
 Andy Fiddaman ([www.citrus-it.net](https://www.citrus-it.net)), Tobias
 Oetiker ([www.oetiker.ch](https://www.oetiker.ch)) and Dominik Hassler have

@@ -39,7 +39,7 @@ their OmniOS boxes to host our new repository.
 ## Thank you, OmniTI
 
 Thank you, OmniTI, for all of your efforts and the efforts of OmniTI
-developers throught the last five years.  Your regular releases of OmniOS 
+developers throughtout the last five years.  Your regular releases of OmniOS 
 and open approach to development contributed greatly to the base upon
 which OmniOSce formed.  Lastly, thank you for a certain "radical" 
 vision that a community would form independently.

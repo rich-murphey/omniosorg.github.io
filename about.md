@@ -10,15 +10,14 @@ permalink: /about/
 On April 21st 2017, [Robert Treat announced](https://lists.omniti.com/pipermail/omnios-discuss/2017-April/008699.html) 
 that OmniTI would suspend active development of OmniOS and support
 contracts would not be renewed.  After five years of releases twice 
-a year, OmniOS had become highly popular, yet the goal of making
-OmniOS community operated had not been realized, and thus a more 
-"radical approach" was needed.
+a year, OmniOS had become highly popular, yet a goal of making
+OmniOS community operated had not been realized.
 
-While the announcement [stunned many](https://www.theregister.co.uk/2017/04/25/oracle_free_solaris_project_stops/), 
-OmniTI still believed that the community could be built, stating "To be clear, \
-our goal is not to abandon OmniOS, but to divest OmniTI
-from the open source project in order to spur others to participate
-more."
+While the announcement of this "radical approach" [stunned many](https://www.theregister.co.uk/2017/04/25/oracle_free_solaris_project_stops/),
+OmniTI explained that the action was taken in part in hopes that 
+the community could be built, stating "To be clear, our goal is not to abandon OmniOS,
+but to divest OmniTI from the open source project in order to spur others
+to participate more."
 
 14 weeks later, OmniOS Community Edition is a reality.
 
@@ -36,6 +35,14 @@ Theo Schlossnagle ([www.circonus.com](https://www.circonus.com)).
 A big thank you also to the [Integrated Systems Laboratory](http://www.iis.ee.ethz.ch)
 of ETH Zurich, Switzerland, who have graceously provided a zone on one of
 their OmniOS boxes to host our new repository. 
+
+## Thank you, OmniTI
+
+Thank you, OmniTI, for all of your efforts and the efforts of OmniTI
+developers throught the last five years.  Your regular releases of OmniOS 
+and open approach to development contributed greatly to the base upon
+which OmniOSce formed.  Lastly, thank you for a certain "radical" 
+vision that a community would form independently.
 
 ## About OmniOS Community Edition Association
 

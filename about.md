@@ -14,8 +14,8 @@ a year, OmniOS had become highly popular, yet a goal of making
 OmniOS community operated had not been realized.
 
 While the announcement of this "radical approach" [stunned many](https://www.theregister.co.uk/2017/04/25/oracle_free_solaris_project_stops/),
-OmniTI explained that the action was taken in part in hopes that 
-the community could be built, stating "To be clear, our goal is not to abandon OmniOS,
+OmniTI explained that the action was taken in part in hopes that it 
+might catilyze the community, stating "To be clear, our goal is not to abandon OmniOS,
 but to divest OmniTI from the open source project in order to spur others
 to participate more."
 
@@ -40,9 +40,8 @@ their OmniOS boxes to host our new repository.
 
 Thank you, OmniTI, for all of your efforts and the efforts of OmniTI
 developers throughtout the last five years.  Your regular releases of OmniOS 
-and open approach to development contributed greatly to the base upon
-which OmniOSce formed.  Lastly, thank you for a certain "radical" 
-vision that a community would form independently.
+and open approach to development are greatly appreciated, and are the base upon
+which OmniOSce formed.
 
 ## About OmniOS Community Edition Association
 
